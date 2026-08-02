@@ -36,7 +36,7 @@ const products = {
     // reuse the same three signature items
      {
       name: "Sehar",
-      tagline: "Classic White Chocolate",
+      tagline: "Classic White Chocolate Cookie",
       price: "AED 14",
       img: "assets/Sehar Cookie site.png",
       desc: "Buttery, chewy, and packed with creamy white chocolate chunks.",
@@ -45,11 +45,20 @@ const products = {
     },
     {
       name: "Ruh",
-      tagline: "Premium Dark Chocolate",
+      tagline: "Premium Dark Chocolate Cookie",
       price: "AED 14",
       img: "assets/Ruh Cookie Site.png",
       desc: "Deep intense cocoa flavor with dark chocolate chunks.",
       ingredients: "Cocoa, Flour, Butter, Sugar, Egg, Dark chocolate, Vanilla, Baking(Powder & Soda), Salt",
+      allergens: ["Wheat", "Dairy", "Egg", "Soy"],
+    },
+    {
+      name: "Hawa",
+      tagline: "Cinnamon Cookie",
+      price: "AED 14",
+      img: "assets/Hawa Site.png",
+      desc: "Soft, chewy, and aromatic cinnamon with a soft center and golden, delicate edges.",
+      ingredients: "Cinnamon, Flour, Butter, Sugar, Egg, Dark chocolate, Vanilla, Baking(Powder & Soda), Salt",
       allergens: ["Wheat", "Dairy", "Egg", "Soy"],
     },
   ],
