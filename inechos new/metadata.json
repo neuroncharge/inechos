@@ -1,6 +1,0 @@
-{
-  "name": "INECHOS",
-  "description": "Minimalist architectural editorial lookbook for INECHOS artisanal small-batch bakery.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
